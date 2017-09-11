@@ -1,21 +1,35 @@
-# zakaz
+# draggable cards
 react-redux SPA with drag and drop integration
+test assignment for taking position of Front End Software Engineer at [zakaz](https://zakaz.ua) company.
 
 ## How to Install:
+
 To download and launch project run theese commands in console:
+```sh
+git clone https://github.com/pustovitDmytro/draggable-cards app
+cd app
 ```
+```sh
 yarn assemble
 yarn start:http-server
 ```
+browse [localhost:7000](http.localhost:7000).
+
 To start webpack dev-server launch:
 ```
 yarn start:dev-server
 ```
+browse [localhost:5000](http.localhost:5000).
 
 If you need just to build the app (without running a dev server), simply run:
 ```
 yarn build
 ```
+
+## Boilerplate
+
+check mine [repo](https://github.com/pustovitDmytro/react) for tiny and fast boilerplate.
+
 ## Task:
 Необходимо реализовать приложение доски задач. Пример UI:
 
