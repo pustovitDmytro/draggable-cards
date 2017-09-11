@@ -13,13 +13,13 @@ cd app
 yarn assemble
 yarn start:http-server
 ```
-browse [localhost:7000](http.localhost:7000).
+browse [localhost:7000](http://localhost:7000).
 
 To start webpack dev-server launch:
 ```
 yarn start:dev-server
 ```
-browse [localhost:5000](http.localhost:5000).
+browse [localhost:5000](http://localhost:5000).
 
 If you need just to build the app (without running a dev server), simply run:
 ```
